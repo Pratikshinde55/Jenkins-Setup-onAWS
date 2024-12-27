@@ -1,5 +1,5 @@
 # Jenkins-Setup-onAWS
-On the top AWS Cloud EC2 Instance i Download and access Jenkins by WebUI
+On the top of AWS Cloud EC2 Instance I Download and access Jenkins by WebUI
 
  - How to install jenkis :
 
